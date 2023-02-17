@@ -1,4 +1,4 @@
-# **API Testing using Rest Assured, Maven, TestNG, and IntelliJ
+# **API Testing using Rest Assured, Maven, TestNG, and IntelliJ**
 
 This project is a demonstration of how to perform API testing using the Rest Assured library, Maven build tool, TestNG testing framework, and IntelliJ IDEA.
 
