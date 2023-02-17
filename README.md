@@ -10,10 +10,10 @@ IntelliJ IDEA
 
 ## **Getting Started**
 
-Clone this repository to your local machine
-Import the project into IntelliJ IDEA as a Maven project.
-Open the pom.xml file and verify that all the dependencies are correctly configured.
-Run the tests by right-clicking on the testng.xml file and selecting "Run 'testng.xml'".
+1. Clone this repository to your local machine  
+2. Import the project into IntelliJ IDEA as a Maven project.  
+3. Open the pom.xml file and verify that all the dependencies are correctly configured.  
+4. Run the tests by right-clicking on the testng.xml file and selecting "Run 'testng.xml'".  
 
 ## **How it Works**
 
