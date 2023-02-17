@@ -3,9 +3,9 @@
 This project is a demonstration of how to perform API testing using the Rest Assured library, Maven build tool, TestNG testing framework, and IntelliJ IDEA.
 
 ## **Prerequisites**
-Java 8 or later
-Maven
-IntelliJ IDEA
+Java 8 or later  
+Maven  
+IntelliJ IDEA  
 
 
 ## **Getting Started**
